@@ -11,10 +11,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqbalramdhan&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iqbalramdhan)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/iqbalramdhan/iqbalramdhan/blob/output/github-contribution-grid-snake.gif)
-
 ### Here's the languages that I am currently working on:
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
