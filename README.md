@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbalramdhan" alt="iqbalramdhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iqbalramdhan01" target="blank"><img src="https://img.shields.io/twitter/follow/iqbalramdhan?logo=twitter&style=for-the-badge" alt="iqbalramdhan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iqbalramdhan01" target="blank"><img src="https://img.shields.io/twitter/follow/iqbalramdhan01?logo=twitter&style=for-the-badge" alt="iqbalramdhan01" /></a> </p>
 
 - 🌱 I’m currently learning **Fresh Graduate on Nusa Putra University**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="#" height="30" width="40" /></a>
 <a href="https://dev.to/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="#" height="30" width="40" /></a>
-<a href="https://twitter.com/iqbalramdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqbalramdhan" height="30" width="40" /></a>
+<a href="https://twitter.com/iqbalramdhan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqbalramdhan01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="#" height="30" width="40" /></a>
 <a href="https://codesandbox.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="#" height="30" width="40" /></a>
