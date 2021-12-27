@@ -3,7 +3,7 @@
 
 <img src="https://profile-counter.glitch.me/iqbalramdhan/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/follow/iqbalramdhan?logo=github&style=for-the-badge)](https://github.com/iqbalramdhan)
+[![GitHub followers](https://img.shields.io/github/followers/iqbalramdhan.svg?style=social&label=Followers)](https://github.com/iqbalramdhan)
 [![Twitter followers](https://img.shields.io/twitter/follow/iqbalramdhan01?logo=twitter&style=for-the-badge)](https://twitter.com/iqbalramdhan01)
 
 ### My github Stats
