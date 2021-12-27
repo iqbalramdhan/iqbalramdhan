@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqbalramdhan" alt="iqbalramdhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iqbalramdhan" target="blank"><img src="https://img.shields.io/twitter/follow/iqbalramdhan?logo=twitter&style=for-the-badge" alt="iqbalramdhan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iqbalramdhan01" target="blank"><img src="https://img.shields.io/twitter/follow/iqbalramdhan?logo=twitter&style=for-the-badge" alt="iqbalramdhan" /></a> </p>
 
 - 🌱 I’m currently learning **Fresh Graduate on Nusa Putra University**
 
